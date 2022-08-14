@@ -47,3 +47,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Shiny app credentials
+shinyapps.io
